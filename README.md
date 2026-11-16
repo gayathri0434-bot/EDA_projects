@@ -6,7 +6,9 @@ A collection of Python-based data science exercises and exploratory data analysi
 
 | Notebook | Description |
 |---|---|
-| Smartphone EDA | Exploratory analysis of a smartphone dataset |
+| [Smartphone Usage and Addiction EDA](Smartphone_EDA.ipynb) | Exploratory analysis of 7,500 synthetic records to investigate smartphone usage patterns and their association with addiction. | Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy |
+
+
 | Telecom EDA | Exploratory analysis of a telecom dataset |
 | Titanic EDA | Exploratory analysis of the Titanic dataset |
 
