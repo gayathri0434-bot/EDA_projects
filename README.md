@@ -4,13 +4,11 @@ A collection of Python-based data science exercises and exploratory data analysi
 
 ## Projects
 
-| Notebook | Description |
-|---|---|
+| Project | Description | Tools & Libraries |
+|---|---|---|
 | [Smartphone Usage and Addiction EDA](Smartphone_EDA.ipynb) | Exploratory analysis of 7,500 synthetic records to investigate smartphone usage patterns and their association with addiction. | Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy |
 | [Telecom Customer Churn EDA](Telcom_EDA.ipynb) | Exploratory analysis of 7,043 customer records to investigate churn patterns across demographics, services, contracts, and billing characteristics. | Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy |
-
-
-| Titanic EDA | Exploratory analysis of the Titanic dataset |
+| [Titanic Survival EDA](Titanic_EDA_7_4_26.ipynb) | Exploratory analysis of 891 Titanic passenger records to investigate survival patterns across demographics, passenger class, fare, and family characteristics. | Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy |
 
 ## Technologies Used
 
