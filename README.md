@@ -23,12 +23,12 @@ A collection of Python-based data science exercises and exploratory data analysi
 ## Repository Structure
 
 ```text
-Python_for_DS/
+EDA_Projects/
 │
+├── Credit_EDA.ipynb
 ├── Smartphone_EDA.ipynb
 ├── Telcom_EDA.ipynb
-├── Titanic_EDA_7_4_26.ipynb
-│
+├── Titanic_EDA.ipynb
 └── README.md
 ```
 
